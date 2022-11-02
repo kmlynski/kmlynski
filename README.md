@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmlynski&label=Profile%20views&color=0e75b6&style=flat" alt="kmlynski" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmlynski" alt="kmlynski" /></a> </p>
-
 - 🔭 I’m currently working on **TypeScript + Playwirght**
-
-- 📫 How to reach me **https://www.linkedin.com/in/kamil-mlynski/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
