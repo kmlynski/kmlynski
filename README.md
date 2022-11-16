@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmlynski&label=Profile%20views&color=0e75b6&style=flat" alt="kmlynski" /> </p>
 
-- 🔭 I’m currently working on **TypeScript + Playwirght**
+- 🔭 I’m currently working with **TypeScript + Playwirght**
 
 <h3 align="left">Technologies that I've worked with:</h3>
 
