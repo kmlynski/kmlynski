@@ -6,6 +6,7 @@
 - 🔭 I’m currently working on **TypeScript + Playwirght**
 
 <h3 align="left">Technologies that I've worked with:</h3>
+
 - Java + Selenium + Appium ( hybrid application )
 - TypeScript + TestCafe + axios ( hybrid application built by Ionic )
 - Java + Selenide ( Salesforce application )
