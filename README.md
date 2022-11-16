@@ -5,6 +5,27 @@
 
 - 🔭 I’m currently working on **TypeScript + Playwirght**
 
+<h3 align="left">Technologies that I've worked with:</h3>
+- Java + Selenium + Appium ( hybrid application )
+- TypeScript + TestCafe + axios ( hybrid application built by Ionic )
+- Java + Selenide ( Salesforce application )
+- JavaScript + cypress + axios ( Web application )
+- TypeScript + Playwright ( Web application )
+
+<h3 align="left">Projects that I've tested:</h3>
+
+- MMORPG game for mobile platforms with 10M+ downloads with an average 4.5 score. 
+- Mobile real estate investment game with 1M+ downloads with an average 4.6 score.
+- Extended reality application to check the flow and parameters of water flowing through the dams.
+- Web application to support corporate recruiting processes of candidate hiring using Salesforce.
+- Gambling app offering scratch cards, lotteries, and slots.
+- Video processing application that analyses the data received
+- Disease simulation application that creates the heatmap of infections
+- Gambling app offering sports betting experience
+- Salesforce application that supports Sales teams
+- Application to support the organisation of equipment in racks
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/kamil-mlynski/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kamil-mlynski/" height="30" width="40" /></a>
