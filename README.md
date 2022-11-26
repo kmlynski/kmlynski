@@ -8,10 +8,10 @@
 <h3 align="left">Technologies that I've worked with:</h3>
 
 - Java + Selenium + Appium ( hybrid application )
-- TypeScript + TestCafe + axios ( hybrid application built by Ionic )
+- TypeScript + TestCafe + Axios  ( hybrid application built by Ionic )
 - Java + Selenide ( Salesforce application )
-- JavaScript + cypress + axios ( Web application )
-- TypeScript + Playwright ( Web application )
+- JavaScript + cypress + Axios ( Web application )
+- TypeScript + Playwright
 
 <h3 align="left">Projects that I've tested:</h3>
 
