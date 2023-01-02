@@ -3,15 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmlynski&label=Profile%20views&color=0e75b6&style=flat" alt="kmlynski" /> </p>
 
-- 🔭 I’m currently working with **TypeScript + Playwirght**
+- 🔭 I’m currently working with **TypeScript + Playwright**
 
 <h3 align="left">Technologies that I've worked with:</h3>
 
-- Java + Selenium + Appium ( hybrid application )
-- TypeScript + TestCafe + Axios  ( hybrid application built by Ionic )
-- Java + Selenide ( Salesforce application )
+- TypeScript + TestCafe + Axios ( hybrid application built by Ionic )
 - JavaScript + cypress + Axios ( Web application )
-- TypeScript + Playwright
+- Java + Selenide ( Salesforce application )
+- Java + Selenium + Appium ( hybrid application )
 
 <h3 align="left">Projects that I've tested:</h3>
 
