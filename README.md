@@ -24,6 +24,8 @@
 - Gambling app offering sports betting experience
 - Salesforce application that supports Sales teams
 - Application to support the organisation of equipment in racks
+- Web store that sells jewelry
+- Web app that supports competing with real cash based on web 3.0
 
 
 <h3 align="left">Connect with me:</h3>
