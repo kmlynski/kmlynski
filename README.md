@@ -26,6 +26,7 @@
 - Application to support the organisation of equipment in racks
 - Web store that sells jewellery
 - Web app that supports competing with real cash based on web 3.0
+- E-learning platform that allows managing test takers and configure exams
 
 
 <h3 align="left">Connect with me:</h3>
